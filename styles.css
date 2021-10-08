@@ -36,6 +36,7 @@ a {
 
 }
 
+
 #header-img{
 
         width: 100%;
@@ -71,8 +72,8 @@ button {
     display: grid;
     gap: 4px;
     grid-auto-flow: column;
-    margin: 40px auto auto auto;
-    
+    margin: 40px auto;
+    text-align: center;
 }
 
 #sect-2{
